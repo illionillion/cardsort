@@ -1,5 +1,5 @@
 'use strict'
-import getLength from "./lib/getLength.mjs";
+import getLength from "./lib/getLength.js";
 // const list = process.argv.slice(2)
 const list = ['a', 'b', 'c']
 console.log(list);
